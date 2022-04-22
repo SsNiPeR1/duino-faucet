@@ -1,0 +1,12 @@
+textarea {
+    width: 100px;
+    height: 15px;
+    resize: none;
+    overflow: auto;
+}
+body {
+    background-color: lightseagreen;
+}
+html {
+    margin: auto;
+}
